@@ -13,10 +13,10 @@ const Container = () => {
         <div className=" bg-gradient-to-r from-gray-100 to-gray-50 h-full " >
             <div className="  px-8 py-1 ">
                 <p className="text-gray-500 text-lg">
-                    Elrond
+                    Hellow
             </p>
                 <p className="font-bold text-2xl transform -translate-y-2">
-                    Hei!
+                  World
             </p>
             </div>
             <div className="flex   p-4 space-x-3">
